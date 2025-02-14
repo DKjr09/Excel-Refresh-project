@@ -1,6 +1,6 @@
 Excel Data Refresh Automation
-Overview
-A PowerShell automation script designed to bulk refresh data connections in Excel workbooks. This script automatically processes multiple Excel files, refreshing their data connections while implementing robust error handling and logging mechanisms.
+
+This is a PowerShell automation script designed to bulk refresh data connections in Excel workbooks. This script automatically processes multiple Excel files, refreshing their data connections while implementing robust error handling and logging mechanisms.
 Features
 
 Automated refresh of data connections in Excel workbooks
